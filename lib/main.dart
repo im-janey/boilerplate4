@@ -95,7 +95,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         TextButton(
                           onPressed: () {},
                           child: Text(
-                            'CANCEL cj',
+                            'CANCEL c',
                             style: TextStyle(
                               fontSize: 12,
                               color: Theme.of(context).colorScheme.primary,
